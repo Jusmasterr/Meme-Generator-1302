@@ -1,9 +1,11 @@
 # Meme-Generator-1302
 
-## 1 Informieren
 ### Justus Meister
 
-### 1.2 User-Stories
+## Informieren
+Ich programmiere eine Web-Applikation,  in welcher man Memes erstellen kann, indem man verschiedene Templates zur Verfügung hat und zu diesen einen Text hinzufügen kann.
+
+### User-Stories
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 |  1   | Muss                | Funktional     | Als ein User möchte ich, dass ich verschiedene Meme Kategorien zur Auswahl haben. |
