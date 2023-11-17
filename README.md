@@ -23,7 +23,7 @@
 
 
 ## Entscheiden
-Wir haben uns dazu entschieden, die Abänderung von schon bereits erstellten Workouts nicht zu implementieren, da wir wahrscheinlich nicht genung Zeit haben, Wenn wir alle Muss-Anforderungen implementiert haben, werden wir diese Funktion als Erweiterung implementieren
+
 ## Realisieren
 
 ## Kontrolle
