@@ -1,6 +1,5 @@
 # Meme-Generator-1302
 
-# WorkoutManager
 ## 1 Informieren
 ### Justus Meister
 
