@@ -8,11 +8,11 @@ Ich programmiere eine Web-Applikation,  in welcher man Memes erstellen kann, ind
 ### User-Stories
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-|  1   | Muss                | Funktional     | Als ein User möchte ich, dass ich verschiedene Meme-Templates zur Auswahl haben.  |
-|  2   | Muss                | Funktional     | Als ein User möchte ich, dass ein zufälliges Template geladen werden kann. |
-|  3   | Kann                | Funktional     | Als ein User möchte ich, dass ich selber den Text für das Meme eingeben kann. |
-|  4   | Muss                | Funktional     | Als ein User möchte ich, dass ich die gererierten Memes auf meinem PC lokal speichern kann. |
-|  5   | Muss                | Randbedingung  | Als ein User möchte ich, dass die Web-Applikation ein aunschauliches und übersichtliches Layout hat. |
+|  1   | Muss                | Funktional     | Als User möchte ich, dass ich verschiedene Meme-Templates zur Auswahl haben.  |
+|  2   | Muss                | Funktional     | Als User möchte ich, dass ein zufälliges Template geladen werden kann. |
+|  3   | Muss                | Funktional     | Als User möchte ich, dass ein eigenes Template welches auf dem PC lokal gesepeichert ist verwenden können. |
+|  4   | Kann                | Funktional     | Als User möchte ich, dass ich selber den Text für das Meme eingeben kann. |
+|  5   | Muss                | Randbedingung  | Als User möchte ich, dass die Web-Applikation ein aunschauliches und übersichtliches Layout hat. |
 
 
 ## Planen
