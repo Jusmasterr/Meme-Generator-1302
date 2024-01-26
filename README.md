@@ -37,7 +37,13 @@ Ich programmiere eine Web-Applikation,  in welcher man Memes erstellen kann, ind
 ### Testfälle
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 |---|---|---|---|
-| - | - | - | - |
+| 1.1 | Seite geöffnet | Auf gewünschtes template geklickt | Template geladen |
+| 2.1 | Seite geöffnet | "Zufälliges Template" Button geklickt | Zufälliges Template geladen |
+| 3.1 | Seite geöffnet | auf durchsuchen geklickt | File Explorer zum Aussuchen der Datei öffnet sich |
+| 3.2 | File Explorer ausgesucht | Auf öffnen geklickt | Eigenes Template geladen |
+| 4.1 |  | - | - |
+| 1.1 |  | - | - |
+
 
 
 ### Testprotokoll
