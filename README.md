@@ -29,10 +29,6 @@ Ich programmiere eine Web-Applikation,  in welcher man Memes erstellen kann, ind
 
 
 
-## Entscheiden
-
-## Realisieren
-
 ## Kontrolle
 ### Testfälle
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
