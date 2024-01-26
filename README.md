@@ -41,18 +41,23 @@ Ich programmiere eine Web-Applikation,  in welcher man Memes erstellen kann, ind
 | 2.1 | Seite geöffnet | "Zufälliges Template" Button geklickt | Zufälliges Template geladen |
 | 3.1 | Seite geöffnet | auf durchsuchen geklickt | File Explorer zum Aussuchen der Datei öffnet sich |
 | 3.2 | File Explorer ausgesucht | Auf öffnen geklickt | Eigenes Template geladen |
-| 4.1 |  | - | - |
-| 1.1 |  | - | - |
+| 4.1 | Seite geöffnet | Texteingabe ins Textfeld | Text wird im Textfeld angezeit |
 
 
 
 ### Testprotokoll
 | Test-№ | TC-№ | Resultat | Datum | Tester |
 |---|---|---|---|---|
-| - | - | - | - | - |
+| 1 | 1.1 | ok | 12.01.24 | Justus |
+| 2 | 2.1 | ok | 12.01.24 | Justus |
+| 3 | 3.1 | ok | 12.01.24 | Justus |
+| 3 | 3.2 | ok | 12.01.24 | Justus |
+| 4 | 4.1 | ok | 12.01.24 | Justus |
 
 
 
 ## Auswertung
+Alle Tests wurden durchgeführt und sind bestanden.
 
 ## Porfolioeintrag
+https://portfolio.bbbaden.ch/view/view.php?t=316694f8613f748d4f71
